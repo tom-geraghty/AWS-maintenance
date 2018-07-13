@@ -1,0 +1,1 @@
+aws opsworks register --infrastructure-class ec2 --region eu-west-1 --stack-id 7e5a89bf-e09c-4ca4-adb6-1ce5bd7c113e --ssh-username bitnami --ssh-private-key tomgeraghtykeypair-nov2017.pem i-0ffd740aa321bc00a
